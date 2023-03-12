@@ -1,7 +1,7 @@
 # Zero to Production in Rust
 
 - [https://www.zero2prod.com/](https://www.zero2prod.com/)
-- [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production)
+- [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) (MIT License)
 
 ## Tools
 
